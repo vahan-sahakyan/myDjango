@@ -1,1 +1,1 @@
-bot: gunicorn myDjango.wsgi
+bot: gunicorn mysite.wsgi
