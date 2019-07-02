@@ -1,1 +1,1 @@
-bot: python3 manage.py runserver
+bot: gunicorn myDjango.wsgi
