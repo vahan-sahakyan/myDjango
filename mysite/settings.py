@@ -126,6 +126,6 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static'),
     os.path.join(BASE_DIR, 'mainApp/static'),
-    "/myDjango/mainApp/static/",
+    "/app/mainApp/static/",
     "/mainApp/static/"
 ]
