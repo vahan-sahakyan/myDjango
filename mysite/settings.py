@@ -26,7 +26,8 @@ SECRET_KEY = 'u@!!2t_pz__hqemj6++h0_j&c$ckk3y4_981-$7@l=d9i#roci'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'vahan-django.herokuapp.com'
+    'vahan-django.herokuapp.com',
+    '127.0.0.1'
 ]
 
 
